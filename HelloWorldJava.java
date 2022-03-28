@@ -6,7 +6,7 @@ public class HelloWorldJava extends javax.swing.JFrame {
     }
 
     
-    @SuppressWarnings("unchecked")
+    @SuppressWarnings("")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">                          
     private void initComponents() {
 
